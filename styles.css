@@ -518,6 +518,10 @@ footer {
     border-radius: 30px
 }
 
+.test{
+    padding-top:5px;
+}
+
 @media (max-width:600px){
     #product .text-center{
         padding-top:50px !important;
